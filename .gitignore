@@ -1,0 +1,26 @@
+# ---------- Python ----------
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# ---------- 虚拟环境 ----------
+.venv/
+venv/
+env/
+
+# ---------- PyInstaller 构建产物 ----------
+build/
+dist/
+*.spec.bak
+*.manifest
+
+# ---------- 运行时生成的配置（程序首次运行会自动重建）----------
+config.json
+
+# ---------- 编辑器 / 系统 ----------
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
