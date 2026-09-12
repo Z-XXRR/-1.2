@@ -24,3 +24,5 @@ config.json
 .DS_Store
 Thumbs.db
 desktop.ini
+# ---------- Workbuddy ----------
+.Workbuddy/
